@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hxdWRnZmN4OW80NmVpczZ5dXR3b290N3VwZzY2cWN0M2cwbGFheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Cyber City Rain" width="100%">
+  <img src="banner.gif" alt="SXFXL05 Sec-Ops Control" width="100%">
 </p>
 <div align="center">
 
