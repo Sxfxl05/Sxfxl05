@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="secops-dashboard.gif" alt="SXFXL05 Sec-Ops Control" width="100%">
+  <img src="./secops-dashboard.gif" alt="SXFXL05 Sec-Ops Control" width="100%">
 </p>
 
 <div align="center">
